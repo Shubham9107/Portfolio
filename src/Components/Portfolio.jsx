@@ -52,7 +52,7 @@ const projectList = [
     title: "OS Algorithm Simulator",
     description:
       "OS Algorithm Simulator it Provides a Hands-on platform for understanding and experimenting with the core concepts of the Operating System.",
-    url: "os-projectteam8.netlify.app/",
+    url: "https://os-projectteam8.netlify.app/",
   },
 ];
 
